@@ -1,3 +1,4 @@
+
 import { Header, Footer, MovieGrid, MovieDetails } from "./layout"
 
 import { HashRouter as Router, Routes, Route } from 'react-router'

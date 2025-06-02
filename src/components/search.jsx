@@ -1,3 +1,4 @@
+
 import React from "react";
 
 class Search extends React.Component {
@@ -33,7 +34,7 @@ render() {
                 onKeyDown={this.handleKey}
                 />
                 <button 
-                className="btn search-btn indigo darken-4"
+                className="btn search-btn pink darken-1"
                 onClick={() =>
                 this.props.searchMovies(this.state.search, this.state.type)} >Search</button>
             </div>

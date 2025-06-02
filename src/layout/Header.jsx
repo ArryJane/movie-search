@@ -1,6 +1,7 @@
+
 export function Header() {
     return(
-    <nav className="indigo darken-4">
+    <nav className="pink darken-1">
             <div className="container">
             <div className="nav-wrapper">
       <a href="!#" className="brand-logo">React Movies</a>

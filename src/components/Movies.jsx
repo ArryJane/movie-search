@@ -14,7 +14,7 @@ import { Link } from "react-router"
                         </Link>
                     )))
              : (
-                <h4>¯\_(⊙︿⊙)_/¯</h4>
+                <h4>└(・。・)┘</h4>
             )
             }
         </div>

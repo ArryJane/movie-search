@@ -1,3 +1,4 @@
+
 import React from "react";
 import { Movies } from "../components/Movies.jsx"
 import { Search } from "../components/search.jsx";

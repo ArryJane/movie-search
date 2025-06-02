@@ -1,6 +1,7 @@
+
 export function Footer() {
     return(
-        <footer className="page-footer indigo darken-4">
+        <footer className="page-footer pink darken-1">
           
           <div className="footer-copyright">
             <div className="container">
